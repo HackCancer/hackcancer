@@ -4,7 +4,7 @@
 
 ## Ongoing editions
 
-[2018 - San Sebastian](https://github.com/HackCancer/hackcancer/tree/master/2018)
+[2018 - San Sebastian](https://github.com/HackCancer/hackcancer/tree/master/2018) ([Help us](https://github.com/HackCancer/hackcancer/issues) )
 
 [2018 - London](http://www.healthhackathons.xyz/)
 
