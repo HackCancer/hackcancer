@@ -22,5 +22,5 @@ Being diagnosed with cancer sucks, I and a team of friends decided to do somethi
 
 ## Previous editions
 
-[2015 - London](https://raynescc.github.io/hackcancer/) 👈
+[2015 - London](https://ajukco.github.io/hackcancer/) 👈
 
