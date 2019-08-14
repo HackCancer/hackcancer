@@ -17,5 +17,6 @@ Being diagnosed with cancer sucks, I and a team of friends decided to do somethi
 ## Previous editions
 
 [2018 - San Sebastian](https://github.com/HackCancer/hackcancer/tree/master/2018)
+
 [2015 - London](https://ajukco.github.io/hackcancer/) 👈
 
