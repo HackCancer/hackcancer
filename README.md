@@ -14,7 +14,7 @@ Being diagnosed with cancer sucks, I and a team of friends decided to do somethi
 
 🎗️ Some amazing cancer beating products built
 
-🎗️ A second Hack Cancer has hosted in San Sebastian in 2018
+🎗️ A second Hack Cancer was hosted in San Sebastian in 2018
 
 ## Previous editions
 
